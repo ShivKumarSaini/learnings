@@ -1,0 +1,30 @@
+{
+  "name": "learnings",
+  "version": "1.0.0",
+  "description": "Learning from various frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivKumarSaini/learnings.git"
+  },
+  "keywords": [
+    "test",
+    "mocha",
+    "chai",
+    "node",
+    "js"
+  ],
+  "author": "shivkumarsaini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivKumarSaini/learnings/issues"
+  },
+  "homepage": "https://github.com/ShivKumarSaini/learnings#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.0"
+  }
+}
